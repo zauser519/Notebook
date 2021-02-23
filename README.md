@@ -1,17 +1,14 @@
-This game is made by Taiwanese student who learning programing, if you interesting in this program you are welcome to work and learn with me
-
+This game is made by Taiwanese student who learning programing, if you interesting in this program you are welcome to work and learn with me\n
 本筆記本程式是由就讀日本東北大學的學生所開發,主要是為了學習寫程式.若有興趣的話歡迎一同開發和學習
 
 Using this program means you have agree all the policy of copyright in local government
 copyright -=>>>=DO NOT reprints or reproduced anything made by zauser519 without permission.=<<<<=-
-
 使用本款程式表示你已同意所有當地政府有關於著作權的規定,請勿未經過本人同意下轉載或複制zauser519所製作的的任何內容
 
 user name on Github: zauser519
-
 使用者: zauser519
 
-Purpose of notebook:
+Purpose of notebook:\n
 1. Short term goal:
 A. Able to record user's data, containing Title, subtitle, content
 B. Able to search specific word user want
